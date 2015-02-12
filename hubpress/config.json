@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"guillaumevidal","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"The big three killed my baby","cover":"http://guillaumevidal.github.io/blog/images/coffee.jpg","postsPerPage":"10","url":"http://guillaumevidal.github.io/blog"},"socialnetwork":{"email":"guill.vidal@gmail.com","github":"https://github.com/guillaumevidal"},"theme":{"name":"uno","url":"http://guillaumevidal.github.io/blog/themes/uno"}}

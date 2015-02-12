@@ -1,0 +1,18 @@
+= First Post
+
+=== Testing AsciiDoc 
+
+Starting blogging *and* learning a yet some new syntax at the same time might be hard, but it's pretty cool that I can have a blog on github, for free, and update it with git. 
+
+WARNING: This blog probably won't be updated often.
+
+
+
+I'm really liking http://hubpress.io/[Hubpress] so far, the live preview is very sleek, really works as advertised. 
+
+I wonder if Asciidoc is a markdown flavor or something else entirely.
+
+Well, that's it for now.
+
+
+:hp-tags: hubpress, blogging
