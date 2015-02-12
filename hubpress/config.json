@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "guillaumevidal",
-    "repositoryName": "guillaumevidal.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"guillaumevidal","repositoryName":"guillaumevidal.github.io","branch":"master"},"site":{"title":"The big three killed my baby","postsPerPage":"10","url":"http://guillaumevidal.github.io"},"socialnetwork":{"email":"guill.vidal@gmail.com","github":"github.com/guillaumevidal"},"theme":{"name":"uno","url":"http://guillaumevidal.github.io/themes/uno"}}
