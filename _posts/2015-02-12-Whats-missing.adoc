@@ -1,0 +1,14 @@
+= What's missing
+
+* Tags are seemingly functional but actually take you to a Github 404
+* No way to add images from the browser editor
+* No way to create pages other than the blog posts
+* _Can't figure out the cover image_
+* See more posts link not working either
+* _Most themes broken_
+* No strikethrough
+
+NOTE: The separate blocks don't have an image displayed, and thus look bad in the actual posts, even though everything is fine in the editor preview.
+
+
+:hp-tags: hubpress, missing-features
