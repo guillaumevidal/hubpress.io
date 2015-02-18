@@ -5,4 +5,24 @@ Et la meilleure chose que j'ai faite pour mieux developper en java, c'est lire *
 
 image::http://ecx.images-amazon.com/images/I/51poMjBx7PL.jpg[align="center"]
 
-Joshua Bloch connait bien son sujet et pour cause, il a mené le developpement de l'api `Collections`, le mecanisme d' `assert` et bien d'autres. 
+Joshua Bloch connait bien son sujet et pour cause, il a mené le developpement de l'api `Collections`, le  mecanisme d' `assert` et bien d'autres. 
+Le livre est divisé en 78 items regroupés en 11 chapitres, de longueur variable. Il est facile d'ouvrir le sommaire pour trouver des items interessants, ou d'utiliser le glossaire en cas de doute. Mais la lecture complete est recommandée. 
+
+Les chapitres sont organisés dans l'ordre approximatif de fréquence d'application de leur conseils: Les premiers traitent de la bonne utilisation des constructeurs, des methodes de l'api `Object`, ou encore des api `Collections`, tandis que les derniers sont consacrés aux exceptions, a la serialisation et a l'api de concurrence. 
+
+L'édition actuelle est la deuxième, elle couvre jusqu'a java 1.6. 
+J'espère une actualisation couvrant les nombreux changements de java 1.8!
+
+Top 3 des items qui ont le plus influé mon code quotidien:
+
+* *Item 2* Consider a builder when faced with many constructor parameters
+** De la bonne utilisation du http://en.wikipedia.org/wiki/Builder_pattern[Builder Pattern].
+
+* *Item 16* Favor composition over inheritance
+** De l'utilisation de la composition préferable a l'héritage, ce qui fait consensus a présent dans le monde du developpement OO. L'explication est claire et ajoute des stratégies pour l'application du principe au developpement java.
+
+* *Item 28* Use bounded wildcards to increase API flexibility
+** Du bon usage des types parametrés.
+
+
+:hp-tags: books, java
