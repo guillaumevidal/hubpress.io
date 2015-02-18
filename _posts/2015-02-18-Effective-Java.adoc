@@ -1,0 +1,8 @@
+= Effective Java
+
+Je developpe en Java la plupart du temps. Au travail, java. Le weekend, java (pour Android). 
+Et la meilleure chose que j'ai faite pour mieux developper en java, c'est lire *Effective Java* de Joshua Bloch.
+
+image::http://ecx.images-amazon.com/images/I/51poMjBx7PL.jpg[align="center"]
+
+Joshua Bloch connait bien son sujet et pour cause, il a mené le developpement de l'api `Collections`, le mecanisme d' `assert` et bien d'autres. 
