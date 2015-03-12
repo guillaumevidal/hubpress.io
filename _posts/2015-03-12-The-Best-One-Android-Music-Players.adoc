@@ -1,0 +1,17 @@
+= The Best One : Android  Music Players
+
+:hp-tags: android, music-player, the-best-one
+
+
+_In 2010, whatever you wanted to do, there was an app for it. In 2015, there are 20. Some good, some bad, some just right. The Best One will be a series where I highlight the one app that's the best *for me* at something in particular._
+
+Today's category is :
+
+=== Android music player
+
+Android has many music playing apps. There's the stock one, of course, and its more full-featured equivalent, *Google Play Music*, an all-in-one alternative to both the iTunes store and iOS music player. And then there are the many, many competitors on the app store. 
+
+NOTE: This is one of the domains where the openness of Android towards the replacement of the stock apps led to greater advances. I owned several generations of the iPod touch, but the App Store didn't really have a compelling alternative to the stock iOS music app, simply called iPod. The iPhone also didn't allow competing Dialer or SMS apps. By contrast, even when I first used an Android phone, on 1.6, the Android Market, has it was known then, was already full of replacements for the stock SMS and Mail apps. Everybody used the K-9 mail app, for exemple, has it supported attachements, while the stock one did not!
+
+
+
