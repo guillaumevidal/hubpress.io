@@ -14,9 +14,9 @@ Android has many music playing apps. There's the stock one, of course, and its m
 NOTE: This is one of the domains where the openness of Android towards the replacement of the stock apps led to greater advances. I owned several generations of the iPod touch, but the App Store didn't really have a compelling alternative to the stock iOS music app, simply called iPod. The iPhone also didn't allow competing Dialer or SMS apps. By contrast, even when I first used an Android phone, on 1.6, the Android Market, has it was known then, was already full of replacements for the stock SMS and Mail apps. Everybody used the K-9 mail app, for exemple, has it supported attachements, while the stock one did not!
 
 
-I won't rattle off a big list of apps with a comparison. Without further ado, The Best One is : 
+Without further ado, _The Best One_ is : 
 
-*Player Pro* (paid - 3.5 €)!
+*Player Pro* (paid - 3.5 €)
 
 https://play.google.com/store/apps/details?id=com.tbig.playerprotrial[Trial version free on Google Play.]
 
