@@ -14,4 +14,25 @@ Android has many music playing apps. There's the stock one, of course, and its m
 NOTE: This is one of the domains where the openness of Android towards the replacement of the stock apps led to greater advances. I owned several generations of the iPod touch, but the App Store didn't really have a compelling alternative to the stock iOS music app, simply called iPod. The iPhone also didn't allow competing Dialer or SMS apps. By contrast, even when I first used an Android phone, on 1.6, the Android Market, has it was known then, was already full of replacements for the stock SMS and Mail apps. Everybody used the K-9 mail app, for exemple, has it supported attachements, while the stock one did not!
 
 
+I won't rattle off a big list of apps with a comparison. Without further ado, The Best One is : 
+
+*Player Pro* (paid - 3.5 €)!
+
+https://play.google.com/store/apps/details?id=com.tbig.playerprotrial[Trial version free on Google Play.]
+
+image:http://i.imgur.com/hJaHVSK.png []
+
+
+This player has (nearly) all the functionality I want. You can browse your music any way you want, be it tags or files, and play it any way you want.
+
+A feature that I especially like is the _dynamic playlist edit_. What this means is that selecting an album track will create a playlist, with the album tracks as initial content. You can then rearrange all these tracks at will, add and substract anything you want.
+
+Also, multiple selection (by long press) is enabled in every view, including the (awesome) search.
+
+Also, there's a free EQ pack.
+
+Also, it supports double and triple click action for bluetooth control.
+
+And there's much more inside. This app is the best 3.5€ I spent on my phone. It has one flaw for me: No support for the music in my google play music account. Alas, there is no (official) API for it from Google, so no player but the official one can offer that for now. I have no doubt that if that API arrives, support will come to my favorite player.
+
 
