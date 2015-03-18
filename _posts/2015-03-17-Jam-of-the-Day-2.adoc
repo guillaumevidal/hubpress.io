@@ -1,1 +1,13 @@
-= test post
+= Jam of the Day #2
+
+:hp-tags: music, jotd
+
+++++
+<iframe style="border: 0; width: 350px; height: 470px;" src="http://bandcamp.com/EmbeddedPlayer/album=2869458964/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://mocamborecords.bandcamp.com/album/showdown">SHOWDOWN by THE MIGHTY MOCAMBOS</a></iframe>
+++++
+
+{empty}
+
+The fantastic Mighty Mocambos are back with a new offering, and from the sound of it it's going to be massive. The wonderful *Road To Earth* opens this album.
+
+Out March 20th on vinyl on https://mocamborecords.bandcamp.com/album/showdown[Mocambo], with hopefully a CD release later.
